@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var globby = require("globby");
 var resolve = require("resolve");
 var argv = require("yargs")
